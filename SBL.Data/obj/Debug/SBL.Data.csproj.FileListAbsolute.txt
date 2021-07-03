@@ -1,0 +1,6 @@
+C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\bin\Debug\SBL.Data.dll
+C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\bin\Debug\SBL.Data.pdb
+C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\obj\Debug\SBL.Data.csproj.AssemblyReference.cache
+C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\obj\Debug\SBL.Data.csproj.CoreCompileInputs.cache
+C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\obj\Debug\SBL.Data.dll
+C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\obj\Debug\SBL.Data.pdb
