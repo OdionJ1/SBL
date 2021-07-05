@@ -4,3 +4,15 @@ C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\obj\Debug\SBL.Data.csproj.Assemb
 C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\obj\Debug\SBL.Data.csproj.CoreCompileInputs.cache
 C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\obj\Debug\SBL.Data.dll
 C:\Users\odion\Desktop\My Projects\SBL\SBL.Data\obj\Debug\SBL.Data.pdb
+C:\Users\Sathya\NewProject\SBL\SBL.Data\bin\Debug\SBL.Data.dll.config
+C:\Users\Sathya\NewProject\SBL\SBL.Data\bin\Debug\SBL.Data.dll
+C:\Users\Sathya\NewProject\SBL\SBL.Data\bin\Debug\SBL.Data.pdb
+C:\Users\Sathya\NewProject\SBL\SBL.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sathya\NewProject\SBL\SBL.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sathya\NewProject\SBL\SBL.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sathya\NewProject\SBL\SBL.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sathya\NewProject\SBL\SBL.Data\obj\Debug\SBL.Data.csproj.AssemblyReference.cache
+C:\Users\Sathya\NewProject\SBL\SBL.Data\obj\Debug\SBL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sathya\NewProject\SBL\SBL.Data\obj\Debug\SBL.Data.csproj.CopyComplete
+C:\Users\Sathya\NewProject\SBL\SBL.Data\obj\Debug\SBL.Data.dll
+C:\Users\Sathya\NewProject\SBL\SBL.Data\obj\Debug\SBL.Data.pdb

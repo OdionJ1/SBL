@@ -14,6 +14,12 @@ namespace SBL
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+               name: "Books",
+               url: "{controller}/{action}/{id}",
+               defaults: new { controller = "Book", action = "GetBooks", id = UrlParameter.Optional }
+               );
+
+           routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }

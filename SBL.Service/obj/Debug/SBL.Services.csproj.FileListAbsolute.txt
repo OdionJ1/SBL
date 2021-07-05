@@ -1,0 +1,12 @@
+C:\Users\Sathya\NewProject\SBL\SBL.Service\bin\Debug\SBL.Service.dll
+C:\Users\Sathya\NewProject\SBL\SBL.Service\bin\Debug\SBL.Service.pdb
+C:\Users\Sathya\NewProject\SBL\SBL.Service\bin\Debug\SBL.Data.dll
+C:\Users\Sathya\NewProject\SBL\SBL.Service\bin\Debug\EntityFramework.dll
+C:\Users\Sathya\NewProject\SBL\SBL.Service\bin\Debug\SBL.Data.pdb
+C:\Users\Sathya\NewProject\SBL\SBL.Service\bin\Debug\SBL.Data.dll.config
+C:\Users\Sathya\NewProject\SBL\SBL.Service\bin\Debug\EntityFramework.xml
+C:\Users\Sathya\NewProject\SBL\SBL.Service\obj\Debug\SBL.Services.csproj.AssemblyReference.cache
+C:\Users\Sathya\NewProject\SBL\SBL.Service\obj\Debug\SBL.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sathya\NewProject\SBL\SBL.Service\obj\Debug\SBL.Services.csproj.CopyComplete
+C:\Users\Sathya\NewProject\SBL\SBL.Service\obj\Debug\SBL.Service.dll
+C:\Users\Sathya\NewProject\SBL\SBL.Service\obj\Debug\SBL.Service.pdb
